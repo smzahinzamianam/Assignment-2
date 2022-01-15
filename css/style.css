@@ -54,7 +54,7 @@ nav {
     align-items: flex-start;
     width: 582px;
 }
-/* title typing animation */
+/* title */
 
 .banner-area-left .title {
     font-weight: 700;
@@ -118,7 +118,7 @@ nav {
     transition: transform 2s ease-out;
 }
 
-/* Popular Collections Starts */
+/* Popular Collections */
 
 .popular-collections-title {
     text-align: center;
@@ -165,7 +165,7 @@ nav {
     font-weight: 700;
 }
 
-/* STAR */
+/* rating */
 .star-rating {
     display: flex;
     width: 122px;
@@ -193,7 +193,7 @@ nav {
     text-decoration: none;
 }
 
-/* Contact Starts */
+/* Contact */
 
 .message-me {
     display: grid;
@@ -221,7 +221,7 @@ nav {
     box-shadow: 3px 3px 5px #eca2bd;
 }
 
-/* Footer Starts */
+/* Footer */
 
 footer {
     background-color: #0a0826;
@@ -255,7 +255,7 @@ footer {
     background-color: #13243d;
     color: #FFFFFF;
 }
-/* Navbar Toggle  */
+/* Navbar */
 
 #nav-toggle {
     display: none;
